@@ -56,3 +56,20 @@
 [24Dec2024 19:29:00.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0800lato joined the game
 [24Dec2024 19:38:19.485] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 0800lato lost connection: Disconnected
 [24Dec2024 19:38:19.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0800lato left the game
+[24Dec2024 19:39:19.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[24Dec2024 19:44:09.015] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 0800lato[/100.103.231.37:49951] logged in with entity id 3384 at (-1283.5329250654993, 40.0, 579.1344176280917)
+[24Dec2024 19:44:09.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0800lato joined the game
+[24Dec2024 19:44:16.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Set own game mode to Creative Mode]
+[24Dec2024 19:44:39.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 0800lato lost connection: Disconnected
+[24Dec2024 19:44:39.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0800lato left the game
+[24Dec2024 19:44:48.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[24Dec2024 19:44:48.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Dec2024 19:44:48.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Dec2024 19:44:48.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Dec2024 19:44:49.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Dec2024 19:44:49.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Dec2024 19:44:49.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Dec2024 19:44:49.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Dec2024 19:44:49.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Dec2024 19:44:49.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Dec2024 19:44:49.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
