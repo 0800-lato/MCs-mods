@@ -858,3 +858,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [30Dec2024 05:41:50.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Dec2024 05:42:54.938] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/28231, l='ServerLevel[world]', x=-1357.69, y=81.33, z=-4367.51] died, message: 'Librarian tried to swim in lava'
 [30Dec2024 05:43:54.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 drowned
+[30Dec2024 05:44:34.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported Tannna000 to 0800lato]
+[30Dec2024 05:46:50.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 05:46:50.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 05:51:37.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to Tannna000]
+[30Dec2024 05:51:50.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 05:51:50.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

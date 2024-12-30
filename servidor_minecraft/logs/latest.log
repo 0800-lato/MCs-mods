@@ -117,3 +117,5 @@
 [30Dec2024 05:36:08.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of 0800lato) moved too quickly! -7.1338477257170325,0.0,-7.9756453659611
 [30Dec2024 05:42:54.938] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/28231, l='ServerLevel[world]', x=-1357.69, y=81.33, z=-4367.51] died, message: 'Librarian tried to swim in lava'
 [30Dec2024 05:43:54.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 drowned
+[30Dec2024 05:44:34.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported Tannna000 to 0800lato]
+[30Dec2024 05:51:37.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to Tannna000]
