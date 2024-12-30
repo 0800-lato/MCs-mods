@@ -371,7 +371,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-24 20:55:44 +0000",
+      "cooked_rabbit": "2024-12-24 20:55:40 +0000",
       "cooked_chicken": "2024-12-23 20:06:14 +0000",
+      "cooked_mutton": "2024-12-24 20:40:17 +0000",
       "melon_slice": "2024-12-23 19:44:50 +0000"
     },
     "done": false
@@ -390,6 +393,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2024-12-24 20:39:05 +0000",
       "minecraft:skeleton": "2024-12-23 19:52:18 +0000",
       "minecraft:enderman": "2024-12-24 19:31:11 +0000",
       "minecraft:spider": "2024-12-23 19:47:27 +0000",
@@ -1353,21 +1357,435 @@
     },
     "done": true
   },
-  "senti:register": {
+  "packedup:recipes/misc/gold_from_chest": {
     "criteria": {
-      "requirement": "2024-12-24 19:46:50 +0000"
+      "recipe_condition": "2024-12-24 20:19:00 +0000"
     },
     "done": true
   },
-  "backpacks:tree/root": {
+  "packedup:recipes/misc/silver_from_chest": {
     "criteria": {
-      "requirement": "2024-12-24 19:46:50 +0000"
+      "recipe_condition": "2024-12-24 20:19:00 +0000"
     },
     "done": true
   },
-  "senti:tick": {
+  "packedup:recipes/misc/copper_from_chest": {
     "criteria": {
-      "requirement": "2024-12-24 19:46:50 +0000"
+      "recipe_condition": "2024-12-24 20:19:00 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/iron_from_chest": {
+    "criteria": {
+      "recipe_condition": "2024-12-24 20:19:00 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/basic_from_chest": {
+    "criteria": {
+      "recipe_condition": "2024-12-24 20:19:00 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/obsidian_from_chest": {
+    "criteria": {
+      "recipe_condition": "2024-12-24 20:19:00 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/diamond_from_chest": {
+    "criteria": {
+      "recipe_condition": "2024-12-24 20:19:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-24 20:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-24 20:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-24 20:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-24 20:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-24 20:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-24 20:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-24 20:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-24 20:37:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-24 20:37:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-24 20:37:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-24 20:37:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-24 20:37:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-24 20:37:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-24 20:37:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-24 20:37:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-24 20:37:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-24 20:37:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-24 20:37:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-24 20:37:28 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/obsidian_from_basic": {
+    "criteria": {
+      "recipe_condition": "2024-12-24 21:00:06 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/iron_from_basic": {
+    "criteria": {
+      "recipe_condition": "2024-12-24 21:00:06 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/diamond_from_basic": {
+    "criteria": {
+      "recipe_condition": "2024-12-24 21:00:06 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/copper_from_basic": {
+    "criteria": {
+      "recipe_condition": "2024-12-24 21:00:06 +0000"
+    },
+    "done": true
+  },
+  "packedup:basic_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-24 21:00:06 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/gold_from_basic": {
+    "criteria": {
+      "recipe_condition": "2024-12-24 21:00:06 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/silver_from_basic": {
+    "criteria": {
+      "recipe_condition": "2024-12-24 21:00:06 +0000"
+    },
+    "done": true
+  },
+  "packedup:iron_or_copper_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-24 21:00:32 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/obsidian_from_iron": {
+    "criteria": {
+      "recipe_condition": "2024-12-24 21:00:32 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/diamond_from_iron": {
+    "criteria": {
+      "recipe_condition": "2024-12-24 21:00:32 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/gold_from_iron": {
+    "criteria": {
+      "recipe_condition": "2024-12-24 21:00:32 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/silver_from_iron": {
+    "criteria": {
+      "recipe_condition": "2024-12-24 21:00:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 21:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 21:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 21:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 21:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 21:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 21:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 21:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 21:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 21:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 21:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 21:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 21:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 21:03:14 +0000"
+    },
+    "done": true
+  },
+  "packedup:silver_or_gold_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-24 21:03:58 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/diamond_from_gold": {
+    "criteria": {
+      "recipe_condition": "2024-12-24 21:03:58 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/obsidian_from_gold": {
+    "criteria": {
+      "recipe_condition": "2024-12-24 21:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-24 21:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-24 21:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-24 21:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-24 21:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-24 21:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-24 21:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-24 21:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-24 21:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-24 21:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-24 21:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-24 21:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-24 21:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-24 21:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-24 21:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-24 21:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-24 21:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-24 21:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-24 21:12:39 +0000"
     },
     "done": true
   },
