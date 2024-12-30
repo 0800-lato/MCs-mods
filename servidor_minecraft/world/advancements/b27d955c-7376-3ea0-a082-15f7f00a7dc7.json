@@ -375,6 +375,7 @@
       "cooked_rabbit": "2024-12-24 20:55:40 +0000",
       "cooked_chicken": "2024-12-23 20:06:14 +0000",
       "cooked_mutton": "2024-12-24 20:40:17 +0000",
+      "cooked_beef": "2024-12-30 05:01:53 +0000",
       "melon_slice": "2024-12-23 19:44:50 +0000"
     },
     "done": false
@@ -393,6 +394,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-30 05:00:45 +0000",
       "minecraft:cave_spider": "2024-12-24 20:39:05 +0000",
       "minecraft:skeleton": "2024-12-23 19:52:18 +0000",
       "minecraft:enderman": "2024-12-24 19:31:11 +0000",
@@ -1786,6 +1788,78 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-12-24 21:12:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-30 04:58:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-30 04:53:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2024-12-30 04:51:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-30 04:50:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-30 04:53:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_axe": "2024-12-30 04:51:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-30 04:53:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-30 04:50:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-30 05:00:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-30 05:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-30 04:50:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-30 04:51:37 +0000"
     },
     "done": true
   },

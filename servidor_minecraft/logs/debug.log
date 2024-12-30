@@ -720,3 +720,16 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [30Dec2024 04:42:56.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 joined the game
 [30Dec2024 04:43:32.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Dec2024 04:43:32.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 04:48:32.755] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 04:48:32.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 04:50:41.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0800lato has made the advancement [Ice Bucket Challenge]
+[30Dec2024 04:53:32.726] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 04:53:32.754] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 04:58:32.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 04:58:32.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 04:58:35.884] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/entity/raid/Raid
+[30Dec2024 05:00:45.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0800lato has made the advancement [Take Aim]
+[30Dec2024 05:00:48.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 has made the advancement [Voluntary Exile]
+[30Dec2024 05:03:03.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 has made the advancement [Best Friends Forever]
+[30Dec2024 05:03:32.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 05:03:32.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
