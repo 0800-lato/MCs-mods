@@ -119,3 +119,8 @@
 [30Dec2024 05:43:54.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 drowned
 [30Dec2024 05:44:34.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported Tannna000 to 0800lato]
 [30Dec2024 05:51:37.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to Tannna000]
+[30Dec2024 05:55:57.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 0800lato lost connection: Disconnected
+[30Dec2024 05:55:57.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0800lato left the game
+[30Dec2024 05:55:59.189] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 lost connection: Disconnected
+[30Dec2024 05:55:59.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 left the game
+[30Dec2024 05:56:59.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
