@@ -733,3 +733,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [30Dec2024 05:03:03.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 has made the advancement [Best Friends Forever]
 [30Dec2024 05:03:32.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Dec2024 05:03:32.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 05:04:14.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0800lato has made the advancement [Best Friends Forever]
+[30Dec2024 05:08:05.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 has made the advancement [packedup.advancement.silver_or_gold_backpack.title]
+[30Dec2024 05:08:32.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 05:08:32.712] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 05:13:32.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 05:13:32.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
