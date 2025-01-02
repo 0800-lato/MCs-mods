@@ -61,3 +61,6 @@
 [02Jan2025 14:06:07.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0800lato joined the game
 [02Jan2025 14:06:09.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
 [02Jan2025 14:06:45.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0800lato has made the advancement [Voluntary Exile]
+[02Jan2025 14:37:32.617] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 0800lato lost connection: Disconnected
+[02Jan2025 14:37:32.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0800lato left the game
+[02Jan2025 14:38:32.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
