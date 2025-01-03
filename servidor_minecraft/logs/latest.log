@@ -97,3 +97,11 @@
 [03Jan2025 03:45:22.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Set own game mode to Creative Mode]
 [03Jan2025 03:45:28.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Set own game mode to Survival Mode]
 [03Jan2025 03:47:22.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Set the weather to clear]
+[03Jan2025 04:05:00.574] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tannna000[/100.73.42.64:49560] logged in with entity id 16931 at (-1252.8187695068436, 127.0, -4143.060382803952)
+[03Jan2025 04:05:00.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 joined the game
+[03Jan2025 04:05:40.505] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 lost connection: Disconnected
+[03Jan2025 04:05:40.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 left the game
+[03Jan2025 04:06:56.038] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tannna000[/100.73.42.64:49571] logged in with entity id 17186 at (-1252.8187695068436, 127.0, -4143.060382803952)
+[03Jan2025 04:06:56.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 joined the game
+[03Jan2025 04:27:04.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 was impaled on a stalagmite
+[03Jan2025 04:27:49.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1592.500000, -16.000000, -4293.500000]
