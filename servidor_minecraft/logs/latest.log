@@ -75,3 +75,4 @@
 [03Jan2025 02:49:42.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 left the game
 [03Jan2025 02:51:20.783] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tannna000[/100.73.42.64:65395] logged in with entity id 1727 at (-1176.031218412264, 128.0, -4099.186060614706)
 [03Jan2025 02:51:20.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 joined the game
+[03Jan2025 03:03:59.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 moved too quickly! -5.932154426261604,-6.796735600668711,-4.376952743666152
