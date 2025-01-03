@@ -71,3 +71,7 @@
 [03Jan2025 02:40:19.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [03Jan2025 02:44:34.684] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tannna000[/100.73.42.64:53367] logged in with entity id 836 at (-1186.0180650720479, 128.0, -4093.502144371228)
 [03Jan2025 02:44:34.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 joined the game
+[03Jan2025 02:49:42.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 lost connection: Disconnected
+[03Jan2025 02:49:42.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 left the game
+[03Jan2025 02:51:20.783] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tannna000[/100.73.42.64:65395] logged in with entity id 1727 at (-1176.031218412264, 128.0, -4099.186060614706)
+[03Jan2025 02:51:20.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 joined the game
