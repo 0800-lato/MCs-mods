@@ -76,3 +76,17 @@
 [03Jan2025 02:51:20.783] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tannna000[/100.73.42.64:65395] logged in with entity id 1727 at (-1176.031218412264, 128.0, -4099.186060614706)
 [03Jan2025 02:51:20.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 joined the game
 [03Jan2025 03:03:59.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 moved too quickly! -5.932154426261604,-6.796735600668711,-4.376952743666152
+[03Jan2025 03:10:00.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of 0800lato) moved too quickly! -6.07995473175356,0.0,-8.437649526823407
+[03Jan2025 03:10:00.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of 0800lato) moved too quickly! -6.313805894143798,0.0,-8.76216994794413
+[03Jan2025 03:11:57.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 moved too quickly! 3.776777585182117,2.755490737535908,8.920359547068983
+[03Jan2025 03:12:01.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 was kicked for floating too long!
+[03Jan2025 03:12:01.464] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 lost connection: Flying is not enabled on this server
+[03Jan2025 03:12:01.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 left the game
+[03Jan2025 03:12:01.515] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jan2025 03:12:15.136] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tannna000[/100.73.42.64:49194] logged in with entity id 6329 at (-1362.9415050120092, 71.0, -4229.592306785544)
+[03Jan2025 03:12:15.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 joined the game
+[03Jan2025 03:17:03.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0800lato was blown up by Creeper
+[03Jan2025 03:17:16.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1269.500000, 83.000000, -4254.500000]
+[03Jan2025 03:22:15.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Set own game mode to Creative Mode]
+[03Jan2025 03:23:49.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> dame un segundo
+[03Jan2025 03:25:19.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Set own game mode to Survival Mode]
