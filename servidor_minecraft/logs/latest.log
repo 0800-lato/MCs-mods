@@ -90,3 +90,10 @@
 [03Jan2025 03:22:15.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Set own game mode to Creative Mode]
 [03Jan2025 03:23:49.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> dame un segundo
 [03Jan2025 03:25:19.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Set own game mode to Survival Mode]
+[03Jan2025 03:40:25.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Set own game mode to Creative Mode]
+[03Jan2025 03:45:12.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Set own game mode to Survival Mode]
+[03Jan2025 03:45:15.506] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 lost connection: Disconnected
+[03Jan2025 03:45:15.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 left the game
+[03Jan2025 03:45:22.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Set own game mode to Creative Mode]
+[03Jan2025 03:45:28.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Set own game mode to Survival Mode]
+[03Jan2025 03:47:22.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Set the weather to clear]
