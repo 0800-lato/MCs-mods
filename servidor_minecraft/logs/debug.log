@@ -918,3 +918,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03Jan2025 04:25:17.766] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Jan2025 04:27:04.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 was impaled on a stalagmite
 [03Jan2025 04:27:49.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1592.500000, -16.000000, -4293.500000]
+[03Jan2025 04:30:17.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 04:30:17.756] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 04:35:17.764] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 04:35:17.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
