@@ -88,3 +88,15 @@
 [04Jan2025 02:02:14.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 moved too quickly! -0.22271659642092345,-1.0,-10.09115841664152
 [04Jan2025 02:12:59.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 moved too quickly! 2.693700235229244,-10.559544869528025,-0.804122780526086
 [04Jan2025 02:13:00.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 moved too quickly! -0.6708490852033719,-10.856489120741116,-0.10175191051985166
+[04Jan2025 02:15:42.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1245.500000, 127.000000, -4133.500000]
+[04Jan2025 02:17:41.471] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 lost connection: Timed out
+[04Jan2025 02:17:41.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 left the game
+[04Jan2025 02:17:51.983] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tannna000[/100.73.42.64:65521] logged in with entity id 17155 at (-1241.2825107801, 125.0, -4159.365349199499)
+[04Jan2025 02:17:52.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 joined the game
+[04Jan2025 02:20:43.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 has made the advancement [The Parrots and the Bats]
+[04Jan2025 02:22:16.057] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1313, y=83, z=-4211} BlockPos{x=-1312, y=83, z=-4211}
+[04Jan2025 02:22:16.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1313, y=83, z=-4211} BlockPos{x=-1312, y=83, z=-4211}
+[04Jan2025 02:22:22.371] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 lost connection: Timed out
+[04Jan2025 02:22:22.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 left the game
+[04Jan2025 02:23:52.863] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tannna000[/100.73.42.64:49310] logged in with entity id 18579 at (-1246.2461495453426, 125.79402379758702, -4155.261984015617)
+[04Jan2025 02:23:52.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 joined the game
