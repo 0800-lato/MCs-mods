@@ -2807,6 +2807,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-01-04 05:28:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brown_bundle": {
     "criteria": {
       "has_brown_dye": "2025-01-04 02:34:57 +0000"
@@ -2882,6 +2888,12 @@
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-01-04 01:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-01-04 05:28:02 +0000"
     },
     "done": true
   },
