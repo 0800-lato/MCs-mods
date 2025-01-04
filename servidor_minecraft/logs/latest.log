@@ -61,3 +61,13 @@
 [04Jan2025 01:16:23.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0800lato joined the game
 [04Jan2025 01:16:30.069] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [04Jan2025 01:19:13.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Set the time to 1000]
+[04Jan2025 01:24:56.638] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tannna000[/100.73.42.64:49210] logged in with entity id 1889 at (-1088.2800092967773, 93.0, -4121.515376869267)
+[04Jan2025 01:24:56.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 joined the game
+[04Jan2025 01:26:43.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 was slain by Zombie
+[04Jan2025 01:26:46.635] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 lost connection: Timed out
+[04Jan2025 01:26:46.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 left the game
+[04Jan2025 01:26:51.902] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tannna000[/100.73.42.64:49335] logged in with entity id 2624 at (-1084.1437268971617, 95.25220334025373, -4116.551364466924)
+[04Jan2025 01:26:51.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 joined the game
+[04Jan2025 01:27:19.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1086.500000, 93.000000, -4123.500000]
+[04Jan2025 01:29:50.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> zzzzzz
+[04Jan2025 01:29:54.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
