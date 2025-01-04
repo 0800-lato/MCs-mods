@@ -2777,6 +2777,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-01-04 03:51:33 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/brown_bundle": {
     "criteria": {
       "has_brown_dye": "2025-01-04 02:34:57 +0000"
@@ -2798,6 +2804,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-01-04 03:40:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-01-04 03:51:00 +0000"
     },
     "done": true
   },
@@ -2852,6 +2864,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-01-04 02:14:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-01-04 03:51:33 +0000"
     },
     "done": true
   },
