@@ -157,3 +157,6 @@
 [04Jan2025 03:51:33.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0800lato has made the advancement [The Parrots and the Bats]
 [04Jan2025 04:19:17.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Set own game mode to Creative Mode]
 [04Jan2025 04:20:04.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Set own game mode to Survival Mode]
+[04Jan2025 04:51:30.326] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tannna000[/100.73.42.64:54542] logged in with entity id 51132 at (-1225.6001591067543, 120.0, -4175.577772809412)
+[04Jan2025 04:51:30.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 joined the game
+[04Jan2025 05:04:55.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1640.500000, -25.000000, -4381.500000]
