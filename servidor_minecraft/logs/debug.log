@@ -1166,3 +1166,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Jan2025 04:10:51.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Jan2025 04:15:51.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jan2025 04:15:51.967] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 04:19:17.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Set own game mode to Creative Mode]
+[04Jan2025 04:20:04.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Set own game mode to Survival Mode]
+[04Jan2025 04:20:51.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 04:20:51.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 04:25:51.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 04:25:51.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
