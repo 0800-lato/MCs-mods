@@ -1283,3 +1283,16 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Jan2025 06:53:59.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Set own game mode to Survival Mode]
 [04Jan2025 06:55:51.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jan2025 06:55:52.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 06:59:26.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -834.500000, 63.000000, -978.500000]
+[04Jan2025 06:59:36.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
+[04Jan2025 07:00:51.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 07:00:51.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 07:03:19.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
+[04Jan2025 07:03:34.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1640.500000, -25.000000, -4381.500000]
+[04Jan2025 07:04:09.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -2290.000000, 77.000000, -4857.000000]
+[04Jan2025 07:05:17.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
+[04Jan2025 07:05:37.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -2493.000000, 92.000000, -4957.000000]
+[04Jan2025 07:05:52.015] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 07:05:52.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 07:07:08.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
+[04Jan2025 07:07:19.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1245.500000, 127.000000, -4133.500000]
