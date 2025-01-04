@@ -2751,5 +2751,17 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-04 01:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-04 01:31:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4082
 }
