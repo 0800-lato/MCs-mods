@@ -79,3 +79,10 @@
 [04Jan2025 01:47:40.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
 [04Jan2025 01:51:06.088] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 moved wrongly!
 [04Jan2025 01:53:41.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
+[04Jan2025 01:56:51.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 was slain by Zombie
+[04Jan2025 01:57:24.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1159.500000, 31.000000, -4018.500000]
+[04Jan2025 01:58:33.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 moved too quickly! 8.061174025591981,0.5800000131130219,-6.15365623137086
+[04Jan2025 01:59:08.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
+[04Jan2025 01:59:22.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1245.500000, 127.000000, -4133.500000]
+[04Jan2025 02:01:34.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tannna000> zzzzzzzzzzzzzzzzz
+[04Jan2025 02:02:14.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 moved too quickly! -0.22271659642092345,-1.0,-10.09115841664152
