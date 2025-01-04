@@ -148,3 +148,7 @@
 [04Jan2025 03:25:24.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 moved too quickly! 7.846873540100887,0.7477966597462711,6.479570578393577
 [04Jan2025 03:25:39.270] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 lost connection: Timed out
 [04Jan2025 03:25:39.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 left the game
+[04Jan2025 03:26:22.996] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tannna000[/100.73.42.64:49348] logged in with entity id 36777 at (-1203.2495157949327, 124.0, -4140.87394750537)
+[04Jan2025 03:26:23.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 joined the game
+[04Jan2025 03:29:23.320] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 lost connection: Timed out
+[04Jan2025 03:29:23.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 left the game
