@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:savanna_plateau": "2025-01-04 05:10:39 +0000",
       "minecraft:beach": "2024-12-30 05:40:08 +0000",
+      "minecraft:dark_forest": "2025-01-05 04:28:17 +0000",
       "minecraft:forest": "2024-12-23 19:50:24 +0000",
       "minecraft:mangrove_swamp": "2024-12-23 19:45:03 +0000",
       "minecraft:sparse_jungle": "2024-12-23 19:48:05 +0000",
@@ -2574,6 +2575,24 @@
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2025-01-04 07:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-01-05 04:18:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-05 04:16:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-05 04:18:56 +0000"
     },
     "done": true
   },
