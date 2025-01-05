@@ -1,209 +1,62 @@
-[04Jan2025 01:14:58.442] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server]
-[04Jan2025 01:14:58.453] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Microsoft OpenJDK 64-Bit Server VM 21.0.5+11-LTS
-[04Jan2025 01:14:58.463] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[04Jan2025 01:14:58.810] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[04Jan2025 01:14:59.247] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/MCs-mods/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[04Jan2025 01:14:59.865] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[04Jan2025 01:15:02.376] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[04Jan2025 01:15:02.392] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments []
-[04Jan2025 01:15:02.516] [main/WARN] [mixin/]: Reference map 'supermartijn642corelib.mixins.refmap.json' for supermartijn642corelib.mixins.json could not be read. If this is a development environment you can ignore this message
-[04Jan2025 01:15:05.210] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/MCs-mods/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/MCs-mods/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/MCs-mods/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/MCs-mods/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
-[04Jan2025 01:15:05.658] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/MCs-mods/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/MCs-mods/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/MCs-mods/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/MCs-mods/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
-[04Jan2025 01:15:23.108] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 53.0.25, for MC 1.21.3 with MCP 20241025.112443
-[04Jan2025 01:15:23.109] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v53.0.25 Initialized
-[04Jan2025 01:15:23.153] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[04Jan2025 01:15:25.156] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[04Jan2025 01:15:26.108] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 53.0.25 Target: 53.0.36
-[04Jan2025 01:15:27.533] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04Jan2025 01:15:33.859] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1344 recipes
-[04Jan2025 01:15:33.891] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1479 advancements
-[04Jan2025 01:15:35.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.3
-[04Jan2025 01:15:35.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[04Jan2025 01:15:35.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[04Jan2025 01:15:35.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[04Jan2025 01:15:35.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[04Jan2025 01:15:35.933] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[04Jan2025 01:15:36.123] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04Jan2025 01:15:36.124] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[04Jan2025 01:15:36.124] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04Jan2025 01:15:36.125] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[04Jan2025 01:15:36.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[04Jan2025 01:15:37.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[04Jan2025 01:15:48.669] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 01:15:48.672] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 01:15:48.673] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 01:15:48.673] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 01:15:48.675] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 01:15:48.687] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 01:15:48.688] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 01:15:48.696] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 01:15:48.698] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 01:15:48.700] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 01:15:48.701] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 01:15:48.707] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 01:15:48.708] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 01:15:48.713] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 01:15:48.714] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 01:15:48.714] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 01:15:48.715] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 01:15:48.717] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 01:15:48.717] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 01:15:48.718] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 01:15:48.718] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 01:15:48.719] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 01:15:48.720] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 01:15:48.756] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 01:15:49.260] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 01:15:49.942] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 12698 ms
-[04Jan2025 01:15:49.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.505s)! For help, type "help"
-[04Jan2025 01:15:49.957] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[04Jan2025 01:16:23.842] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 0800lato[/100.103.231.37:57772] logged in with entity id 7 at (-1249.4590950687939, 126.0, -4154.221098822802)
-[04Jan2025 01:16:23.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0800lato joined the game
-[04Jan2025 01:16:30.069] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[04Jan2025 01:19:13.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Set the time to 1000]
-[04Jan2025 01:24:56.638] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tannna000[/100.73.42.64:49210] logged in with entity id 1889 at (-1088.2800092967773, 93.0, -4121.515376869267)
-[04Jan2025 01:24:56.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 joined the game
-[04Jan2025 01:26:43.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 was slain by Zombie
-[04Jan2025 01:26:46.635] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 lost connection: Timed out
-[04Jan2025 01:26:46.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 left the game
-[04Jan2025 01:26:51.902] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tannna000[/100.73.42.64:49335] logged in with entity id 2624 at (-1084.1437268971617, 95.25220334025373, -4116.551364466924)
-[04Jan2025 01:26:51.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 joined the game
-[04Jan2025 01:27:19.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1086.500000, 93.000000, -4123.500000]
-[04Jan2025 01:29:50.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> zzzzzz
-[04Jan2025 01:29:54.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[04Jan2025 01:37:48.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1245.500000, 127.000000, -4133.500000]
-[04Jan2025 01:39:25.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1245.500000, 127.000000, -4133.500000]
-[04Jan2025 01:39:29.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1086.500000, 93.000000, -4123.500000]
-[04Jan2025 01:40:23.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[04Jan2025 01:43:24.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
-[04Jan2025 01:47:40.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
-[04Jan2025 01:51:06.088] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 moved wrongly!
-[04Jan2025 01:53:41.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
-[04Jan2025 01:56:51.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 was slain by Zombie
-[04Jan2025 01:57:24.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1159.500000, 31.000000, -4018.500000]
-[04Jan2025 01:58:33.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 moved too quickly! 8.061174025591981,0.5800000131130219,-6.15365623137086
-[04Jan2025 01:59:08.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
-[04Jan2025 01:59:22.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1245.500000, 127.000000, -4133.500000]
-[04Jan2025 02:01:34.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tannna000> zzzzzzzzzzzzzzzzz
-[04Jan2025 02:02:14.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 moved too quickly! -0.22271659642092345,-1.0,-10.09115841664152
-[04Jan2025 02:12:59.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 moved too quickly! 2.693700235229244,-10.559544869528025,-0.804122780526086
-[04Jan2025 02:13:00.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 moved too quickly! -0.6708490852033719,-10.856489120741116,-0.10175191051985166
-[04Jan2025 02:15:42.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1245.500000, 127.000000, -4133.500000]
-[04Jan2025 02:17:41.471] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 lost connection: Timed out
-[04Jan2025 02:17:41.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 left the game
-[04Jan2025 02:17:51.983] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tannna000[/100.73.42.64:65521] logged in with entity id 17155 at (-1241.2825107801, 125.0, -4159.365349199499)
-[04Jan2025 02:17:52.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 joined the game
-[04Jan2025 02:20:43.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 has made the advancement [The Parrots and the Bats]
-[04Jan2025 02:22:16.057] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1313, y=83, z=-4211} BlockPos{x=-1312, y=83, z=-4211}
-[04Jan2025 02:22:16.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1313, y=83, z=-4211} BlockPos{x=-1312, y=83, z=-4211}
-[04Jan2025 02:22:22.371] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 lost connection: Timed out
-[04Jan2025 02:22:22.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 left the game
-[04Jan2025 02:23:52.863] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tannna000[/100.73.42.64:49310] logged in with entity id 18579 at (-1246.2461495453426, 125.79402379758702, -4155.261984015617)
-[04Jan2025 02:23:52.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 joined the game
-[04Jan2025 02:31:07.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1640.500000, -25.000000, -4381.500000]
-[04Jan2025 02:31:08.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -834.500000, 63.000000, -978.500000]
-[04Jan2025 02:31:26.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1245.500000, 127.000000, -4133.500000]
-[04Jan2025 02:32:01.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1086.500000, 93.000000, -4123.500000]
-[04Jan2025 02:32:06.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1640.500000, -25.000000, -4381.500000]
-[04Jan2025 02:34:53.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
-[04Jan2025 02:36:22.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 moved too quickly! 6.8391648067809,0.0,-7.349958635391886
-[04Jan2025 02:36:26.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 moved too quickly! 6.209836973857136,0.0,-8.102442071670339
-[04Jan2025 02:37:16.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 moved too quickly! 2.023448282689742,-3.0,9.370675727295747
-[04Jan2025 02:39:09.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 lost connection: Timed out
-[04Jan2025 02:39:09.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 left the game
-[04Jan2025 02:39:25.569] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tannna000[/100.73.42.64:49456] logged in with entity id 24423 at (-1617.688651491017, -21.0, -4372.116749791704)
-[04Jan2025 02:39:25.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 joined the game
-[04Jan2025 02:40:16.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 moved too quickly! -9.956414506705414,1.24900001859665,0.19646683792689146
-[04Jan2025 02:40:45.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 moved too quickly! 6.446935544730877,-2.0,7.527024939059629
-[04Jan2025 02:50:39.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1245.500000, 127.000000, -4133.500000]
-[04Jan2025 02:50:41.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
-[04Jan2025 02:56:35.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1108.000000, 114.000000, -4155.000000]
-[04Jan2025 02:57:06.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1245.500000, 127.000000, -4133.500000]
-[04Jan2025 02:57:13.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 moved too quickly! 6.59179042705432,-2.0,-7.556413205857098
-[04Jan2025 02:58:41.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 has made the advancement [A Seedy Place]
-[04Jan2025 03:03:15.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1383.000000, 76.000000, -4340.000000]
-[04Jan2025 03:05:52.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 was kicked for floating too long!
-[04Jan2025 03:05:52.972] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 lost connection: Flying is not enabled on this server
-[04Jan2025 03:05:52.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 left the game
-[04Jan2025 03:06:18.124] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tannna000[/100.73.42.64:49920] logged in with entity id 31844 at (-1357.1272519867339, 102.6906999805212, -4343.550022173474)
-[04Jan2025 03:06:18.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 joined the game
-[04Jan2025 03:07:10.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1227.000000, 120.000000, -4175.000000]
-[04Jan2025 03:07:48.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 lost connection: Timed out
-[04Jan2025 03:07:48.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 left the game
-[04Jan2025 03:08:06.321] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tannna000[/100.73.42.64:49935] logged in with entity id 32666 at (-1234.8483987953462, 117.0, -4199.453040277276)
-[04Jan2025 03:08:06.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 joined the game
-[04Jan2025 03:08:27.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 moved too quickly! 4.204780785369394,-4.921599998474122,-8.111830015482155
-[04Jan2025 03:16:52.171] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 lost connection: Timed out
-[04Jan2025 03:16:52.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 left the game
-[04Jan2025 03:17:01.582] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tannna000[/100.73.42.64:50084] logged in with entity id 34828 at (-1221.6129027423297, 117.0, -4066.812924985283)
-[04Jan2025 03:17:01.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 joined the game
-[04Jan2025 03:19:16.820] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 lost connection: Timed out
-[04Jan2025 03:19:16.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 left the game
-[04Jan2025 03:19:24.956] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tannna000[/100.73.42.64:50157] logged in with entity id 35228 at (-1255.0989900817106, 126.0, -4155.1971392758805)
-[04Jan2025 03:19:24.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 joined the game
-[04Jan2025 03:23:25.170] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 lost connection: Timed out
-[04Jan2025 03:23:25.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 left the game
-[04Jan2025 03:23:39.106] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tannna000[/100.73.42.64:50183] logged in with entity id 36197 at (-1231.5311564378032, 124.02442408821369, -4155.207666705384)
-[04Jan2025 03:23:39.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 joined the game
-[04Jan2025 03:25:24.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 moved too quickly! 7.846873540100887,0.7477966597462711,6.479570578393577
-[04Jan2025 03:25:39.270] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 lost connection: Timed out
-[04Jan2025 03:25:39.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 left the game
-[04Jan2025 03:26:22.996] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tannna000[/100.73.42.64:49348] logged in with entity id 36777 at (-1203.2495157949327, 124.0, -4140.87394750537)
-[04Jan2025 03:26:23.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 joined the game
-[04Jan2025 03:29:23.320] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 lost connection: Timed out
-[04Jan2025 03:29:23.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 left the game
-[04Jan2025 03:46:27.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
-[04Jan2025 03:51:00.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0800lato has made the advancement [A Seedy Place]
-[04Jan2025 03:51:33.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0800lato has made the advancement [The Parrots and the Bats]
-[04Jan2025 04:19:17.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Set own game mode to Creative Mode]
-[04Jan2025 04:20:04.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Set own game mode to Survival Mode]
-[04Jan2025 04:51:30.326] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tannna000[/100.73.42.64:54542] logged in with entity id 51132 at (-1225.6001591067543, 120.0, -4175.577772809412)
-[04Jan2025 04:51:30.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 joined the game
-[04Jan2025 05:04:55.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1640.500000, -25.000000, -4381.500000]
-[04Jan2025 05:08:28.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1245.500000, 127.000000, -4133.500000]
-[04Jan2025 05:09:15.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1136.000000, 104.000000, -4190.000000]
-[04Jan2025 05:10:37.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 moved too quickly! 8.748975359872475,0.2468000194787976,-5.148912362114061
-[04Jan2025 05:11:56.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 moved too quickly! 8.099586893354513,-3.535840625044557,-5.019517509930665
-[04Jan2025 05:12:25.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> dame un seg
-[04Jan2025 05:13:53.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1250.000000, 127.000000, -4140.000000]
-[04Jan2025 05:14:24.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -537.000000, 66.000000, -4414.000000]
-[04Jan2025 05:14:42.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -524.000000, 75.000000, -4290.000000]
-[04Jan2025 05:35:24.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1245.500000, 127.000000, -4133.500000]
-[04Jan2025 05:46:07.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
-[04Jan2025 06:34:40.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -713.000000, 67.000000, -4399.000000]
-[04Jan2025 06:38:20.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1245.500000, 127.000000, -4133.500000]
-[04Jan2025 06:45:38.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1640.500000, -25.000000, -4381.500000]
-[04Jan2025 06:46:06.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1245.500000, 127.000000, -4133.500000]
-[04Jan2025 06:47:26.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1640.500000, -25.000000, -4381.500000]
-[04Jan2025 06:47:48.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1245.500000, 127.000000, -4133.500000]
-[04Jan2025 06:50:05.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1640.500000, -25.000000, -4381.500000]
-[04Jan2025 06:51:19.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Set own game mode to Creative Mode]
-[04Jan2025 06:52:26.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1245.500000, 127.000000, -4133.500000]
-[04Jan2025 06:53:59.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Set own game mode to Survival Mode]
-[04Jan2025 06:59:26.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -834.500000, 63.000000, -978.500000]
-[04Jan2025 06:59:36.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
-[04Jan2025 07:03:19.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
-[04Jan2025 07:03:34.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1640.500000, -25.000000, -4381.500000]
-[04Jan2025 07:04:09.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -2290.000000, 77.000000, -4857.000000]
-[04Jan2025 07:05:17.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
-[04Jan2025 07:05:37.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -2493.000000, 92.000000, -4957.000000]
-[04Jan2025 07:07:08.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
-[04Jan2025 07:07:19.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1245.500000, 127.000000, -4133.500000]
-[04Jan2025 07:09:45.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
-[04Jan2025 07:09:54.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1350.000000, 63.000000, -4200.000000]
-[04Jan2025 07:09:57.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
-[04Jan2025 07:11:15.182] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 lost connection: Disconnected
-[04Jan2025 07:11:15.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 left the game
-[04Jan2025 07:11:15.221] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 0800lato lost connection: Disconnected
-[04Jan2025 07:11:15.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0800lato left the game
-[04Jan2025 07:11:24.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[04Jan2025 07:11:24.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[04Jan2025 07:11:24.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[04Jan2025 07:11:24.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[04Jan2025 07:11:24.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04Jan2025 07:11:24.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[04Jan2025 07:11:24.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[04Jan2025 07:11:24.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04Jan2025 07:11:24.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04Jan2025 07:11:24.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04Jan2025 07:11:24.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05Jan2025 03:55:10.731] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server]
+[05Jan2025 03:55:10.742] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Microsoft OpenJDK 64-Bit Server VM 21.0.5+11-LTS
+[05Jan2025 03:55:10.744] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[05Jan2025 03:55:11.272] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[05Jan2025 03:55:11.646] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/MCs-mods/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[05Jan2025 03:55:12.198] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[05Jan2025 03:55:14.341] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[05Jan2025 03:55:14.376] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments []
+[05Jan2025 03:55:14.512] [main/WARN] [mixin/]: Reference map 'supermartijn642corelib.mixins.refmap.json' for supermartijn642corelib.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Jan2025 03:55:16.358] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/MCs-mods/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/MCs-mods/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/MCs-mods/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/MCs-mods/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[05Jan2025 03:55:17.088] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/MCs-mods/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/MCs-mods/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/MCs-mods/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/MCs-mods/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[05Jan2025 03:55:33.082] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 53.0.25, for MC 1.21.3 with MCP 20241025.112443
+[05Jan2025 03:55:33.083] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v53.0.25 Initialized
+[05Jan2025 03:55:33.262] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[05Jan2025 03:55:35.613] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[05Jan2025 03:55:36.797] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 53.0.25 Target: 53.0.37
+[05Jan2025 03:55:38.526] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05Jan2025 03:55:45.956] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1344 recipes
+[05Jan2025 03:55:45.997] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1479 advancements
+[05Jan2025 03:55:46.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.3
+[05Jan2025 03:55:46.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[05Jan2025 03:55:46.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[05Jan2025 03:55:46.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[05Jan2025 03:55:46.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[05Jan2025 03:55:46.645] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[05Jan2025 03:55:46.724] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05Jan2025 03:55:46.724] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[05Jan2025 03:55:46.725] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05Jan2025 03:55:46.726] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[05Jan2025 03:55:46.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[05Jan2025 03:55:47.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[05Jan2025 03:55:58.462] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 03:55:58.466] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 03:55:58.470] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 03:55:58.471] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 03:55:58.472] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 03:55:58.473] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 03:55:58.474] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 03:55:58.475] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 03:55:58.482] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 03:55:58.490] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 03:55:58.491] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 03:55:58.492] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 03:55:58.495] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 03:55:58.496] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 03:55:58.497] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 03:55:58.497] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 03:55:58.498] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 03:55:58.499] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 03:55:58.500] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 03:55:58.501] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 03:55:58.502] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 03:55:58.503] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 03:55:58.959] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 03:55:59.337] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
+[05Jan2025 03:55:59.606] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11814 ms
+[05Jan2025 03:55:59.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.834s)! For help, type "help"
+[05Jan2025 03:55:59.630] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[05Jan2025 03:56:59.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[05Jan2025 03:57:26.333] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tannna000[/100.73.42.64:51024] logged in with entity id 7 at (-1242.9965480194758, 127.0, -4137.424406590935)
+[05Jan2025 03:57:26.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 joined the game
+[05Jan2025 03:57:30.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
