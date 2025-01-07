@@ -53,3 +53,11 @@
 [07Jan2025 00:42:03.029] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 0800lato[/100.103.231.37:64192] logged in with entity id 7 at (-1245.5, 135.5625, -4123.5)
 [07Jan2025 00:42:03.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0800lato joined the game
 [07Jan2025 00:42:05.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[07Jan2025 01:08:20.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
+[07Jan2025 01:12:19.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
+[07Jan2025 01:16:05.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
+[07Jan2025 01:17:32.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
+[07Jan2025 01:19:46.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
+[07Jan2025 01:25:13.512] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 0800lato lost connection: Disconnected
+[07Jan2025 01:25:13.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0800lato left the game
+[07Jan2025 01:26:13.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
