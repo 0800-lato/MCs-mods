@@ -736,3 +736,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [07Jan2025 02:11:10.305] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 19 from client
 [07Jan2025 02:11:11.141] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 0800lato[/100.103.231.37:49550] logged in with entity id 7615 at (-1252.528618540659, 129.0, -4122.612313063164)
 [07Jan2025 02:11:11.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0800lato joined the game
+[07Jan2025 02:16:11.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 02:16:11.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 02:21:11.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 02:21:11.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
