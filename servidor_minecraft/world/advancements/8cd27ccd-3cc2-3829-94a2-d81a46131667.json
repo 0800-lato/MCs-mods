@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2025-01-07 03:19:14 +0000",
       "minecraft:savanna_plateau": "2025-01-04 05:10:39 +0000",
       "minecraft:beach": "2024-12-30 05:40:08 +0000",
       "minecraft:dark_forest": "2025-01-05 04:28:17 +0000",
@@ -181,6 +182,7 @@
       "cooked_porkchop": "2024-12-24 20:36:25 +0000",
       "bread": "2024-12-24 20:46:35 +0000",
       "cooked_chicken": "2025-01-07 02:38:14 +0000",
+      "cookie": "2025-01-07 03:15:44 +0000",
       "cooked_mutton": "2024-12-24 20:55:42 +0000",
       "cooked_beef": "2024-12-24 20:57:49 +0000",
       "melon_slice": "2024-12-23 19:48:44 +0000",
@@ -2636,6 +2638,66 @@
   "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
     "criteria": {
       "has_deepslate_tiles": "2025-01-05 05:08:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-01-07 03:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-01-07 03:19:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_allium": {
+    "criteria": {
+      "has_allium": "2025-01-07 03:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_red_tulip": {
+    "criteria": {
+      "has_red_tulip": "2025-01-07 03:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-01-07 03:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-01-07 03:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-01-07 03:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-01-07 03:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-01-07 03:19:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-01-07 03:19:28 +0000"
     },
     "done": true
   },
