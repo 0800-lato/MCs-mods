@@ -61,3 +61,5 @@
 [07Jan2025 01:25:13.512] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 0800lato lost connection: Disconnected
 [07Jan2025 01:25:13.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0800lato left the game
 [07Jan2025 01:26:13.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[07Jan2025 02:11:11.141] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 0800lato[/100.103.231.37:49550] logged in with entity id 7615 at (-1252.528618540659, 129.0, -4122.612313063164)
+[07Jan2025 02:11:11.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0800lato joined the game
