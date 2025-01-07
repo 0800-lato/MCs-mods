@@ -2671,6 +2671,24 @@
     },
     "done": true
   },
+  "packedup:recipes/misc/obsidian_from_basic": {
+    "criteria": {
+      "recipe_condition": "2025-01-07 04:37:20 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/silver_from_copper": {
+    "criteria": {
+      "recipe_condition": "2025-01-07 04:40:40 +0000"
+    },
+    "done": true
+  },
+  "packedup:iron_or_copper_backpack": {
+    "criteria": {
+      "has_copper_backpack": "2025-01-07 04:40:40 +0000"
+    },
+    "done": true
+  },
   "packedup:recipes/misc/iron_from_chest": {
     "criteria": {
       "recipe_condition": "2025-01-07 04:09:16 +0000"
@@ -2683,9 +2701,33 @@
     },
     "done": true
   },
+  "packedup:recipes/misc/iron_from_basic": {
+    "criteria": {
+      "recipe_condition": "2025-01-07 04:37:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/suspicious_stew_from_red_tulip": {
     "criteria": {
       "has_red_tulip": "2025-01-07 03:19:17 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/diamond_from_basic": {
+    "criteria": {
+      "recipe_condition": "2025-01-07 04:37:20 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/copper_from_basic": {
+    "criteria": {
+      "recipe_condition": "2025-01-07 04:37:20 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/diamond_from_copper": {
+    "criteria": {
+      "recipe_condition": "2025-01-07 04:40:40 +0000"
     },
     "done": true
   },
@@ -2707,15 +2749,33 @@
     },
     "done": true
   },
+  "packedup:basic_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-07 04:37:20 +0000"
+    },
+    "done": true
+  },
   "packedup:recipes/misc/diamond_from_chest": {
     "criteria": {
       "recipe_condition": "2025-01-07 04:09:16 +0000"
     },
     "done": true
   },
+  "packedup:recipes/misc/gold_from_basic": {
+    "criteria": {
+      "recipe_condition": "2025-01-07 04:37:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/suspicious_stew_from_white_tulip": {
     "criteria": {
       "has_white_tulip": "2025-01-07 03:19:51 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/silver_from_basic": {
+    "criteria": {
+      "recipe_condition": "2025-01-07 04:37:20 +0000"
     },
     "done": true
   },
@@ -2734,6 +2794,18 @@
   "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-01-07 03:19:26 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/obsidian_from_copper": {
+    "criteria": {
+      "recipe_condition": "2025-01-07 04:40:40 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/gold_from_copper": {
+    "criteria": {
+      "recipe_condition": "2025-01-07 04:40:40 +0000"
     },
     "done": true
   },
