@@ -141,3 +141,24 @@
 [08Jan2025 03:14:15.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> listo ya podemos caminar tranqui
 [08Jan2025 03:15:06.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> que paso?
 [08Jan2025 03:15:39.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> para donde vasmo?
+[08Jan2025 03:17:12.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> nose por donde subir ahsa}
+[08Jan2025 03:17:53.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 lost connection: Timed out
+[08Jan2025 03:17:53.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 left the game
+[08Jan2025 03:18:19.232] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tannna000[/100.73.42.64:51440] logged in with entity id 17438 at (-382.92976360296853, 46.0, -552.3278436935981)
+[08Jan2025 03:18:19.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 joined the game
+[08Jan2025 03:19:37.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> emmm
+[08Jan2025 03:20:48.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> porque son de oro
+[08Jan2025 03:22:21.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0800lato has made the advancement [Those Were the Days]
+[08Jan2025 03:22:28.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 has made the advancement [Those Were the Days]
+[08Jan2025 03:22:45.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> mucho cuidado
+[08Jan2025 03:22:53.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> si fuera vos activaria el keep
+[08Jan2025 03:23:55.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> donde estas?
+[08Jan2025 03:24:03.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> te pusiste el keep?
+[08Jan2025 03:24:13.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> te lo vas a poner?
+[08Jan2025 03:24:51.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Gamerule keepInventory is now set to: true]
+[08Jan2025 03:25:09.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> gamerule keepInventory true
+[08Jan2025 03:25:12.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> pone eso por las dudas
+[08Jan2025 03:25:15.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> con la /
+[08Jan2025 03:25:37.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Gamerule keepInventory is now set to: true]
+[08Jan2025 03:25:58.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0800lato was slain by Piglin Brute
+[08Jan2025 03:26:05.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> pegan mucho

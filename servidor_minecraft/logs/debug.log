@@ -902,3 +902,56 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Jan2025 03:14:35.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08Jan2025 03:15:06.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> que paso?
 [08Jan2025 03:15:39.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> para donde vasmo?
+[08Jan2025 03:17:12.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> nose por donde subir ahsa}
+[08Jan2025 03:17:53.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 lost connection: Timed out
+[08Jan2025 03:17:53.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 left the game
+[08Jan2025 03:18:15.242] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with modlist [commonnetworking, forge, journeymap, journeymap_api, minecraft, packedup, supermartijn642configlib, supermartijn642corelib, tlskincape]
+[08Jan2025 03:18:15.389] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with channels [forge:channel_registration, forge:handshake, forge:login, journeymap:admin_req, journeymap:admin_save, journeymap:chunk_overlay, journeymap:common, journeymap:mp_options_req, journeymap:perm_req, journeymap:player_loc, journeymap:remove_player, journeymap:teleport_req, journeymap:version, journeymap:waypoint, packedup:main, supermartijn642configlib:sync_configs, worldinfo:world_id]
+[08Jan2025 03:18:15.389] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'packedup:main' : Version test of 'PRESENT 1' from client : ACCEPTED
+[08Jan2025 03:18:15.390] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supermartijn642configlib:sync_configs' : Version test of 'PRESENT 46671486' from client : ACCEPTED
+[08Jan2025 03:18:15.390] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Version test of 'PRESENT 0' from client : ACCEPTED
+[08Jan2025 03:18:15.390] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Version test of 'PRESENT 0' from client : ACCEPTED
+[08Jan2025 03:18:15.390] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Version test of 'PRESENT 0' from client : ACCEPTED
+[08Jan2025 03:18:15.390] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[08Jan2025 03:18:15.538] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 0 from client
+[08Jan2025 03:18:15.681] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 1 from client
+[08Jan2025 03:18:15.828] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 2 from client
+[08Jan2025 03:18:16.121] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 3 from client
+[08Jan2025 03:18:16.264] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 4 from client
+[08Jan2025 03:18:16.411] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 5 from client
+[08Jan2025 03:18:16.557] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 6 from client
+[08Jan2025 03:18:16.701] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 7 from client
+[08Jan2025 03:18:16.842] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 8 from client
+[08Jan2025 03:18:16.992] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 9 from client
+[08Jan2025 03:18:17.133] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 10 from client
+[08Jan2025 03:18:17.278] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 11 from client
+[08Jan2025 03:18:17.423] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 12 from client
+[08Jan2025 03:18:17.566] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 13 from client
+[08Jan2025 03:18:17.709] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 14 from client
+[08Jan2025 03:18:17.849] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 15 from client
+[08Jan2025 03:18:17.993] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 16 from client
+[08Jan2025 03:18:18.138] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 17 from client
+[08Jan2025 03:18:18.282] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
+[08Jan2025 03:18:18.706] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 19 from client
+[08Jan2025 03:18:19.232] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tannna000[/100.73.42.64:51440] logged in with entity id 17438 at (-382.92976360296853, 46.0, -552.3278436935981)
+[08Jan2025 03:18:19.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 joined the game
+[08Jan2025 03:19:35.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 03:19:35.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 03:19:37.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> emmm
+[08Jan2025 03:20:48.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> porque son de oro
+[08Jan2025 03:22:21.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0800lato has made the advancement [Those Were the Days]
+[08Jan2025 03:22:28.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 has made the advancement [Those Were the Days]
+[08Jan2025 03:22:45.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> mucho cuidado
+[08Jan2025 03:22:53.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> si fuera vos activaria el keep
+[08Jan2025 03:23:55.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> donde estas?
+[08Jan2025 03:24:03.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> te pusiste el keep?
+[08Jan2025 03:24:13.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> te lo vas a poner?
+[08Jan2025 03:24:35.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 03:24:35.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 03:24:51.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Gamerule keepInventory is now set to: true]
+[08Jan2025 03:25:09.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> gamerule keepInventory true
+[08Jan2025 03:25:12.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> pone eso por las dudas
+[08Jan2025 03:25:15.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> con la /
+[08Jan2025 03:25:37.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Gamerule keepInventory is now set to: true]
+[08Jan2025 03:25:58.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0800lato was slain by Piglin Brute
+[08Jan2025 03:26:05.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> pegan mucho

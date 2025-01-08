@@ -186,7 +186,8 @@
       "cooked_mutton": "2024-12-24 20:55:42 +0000",
       "cooked_beef": "2024-12-24 20:57:49 +0000",
       "melon_slice": "2024-12-23 19:48:44 +0000",
-      "cooked_salmon": "2024-12-30 05:32:05 +0000"
+      "cooked_salmon": "2024-12-30 05:32:05 +0000",
+      "golden_carrot": "2025-01-08 03:20:49 +0000"
     },
     "done": false
   },
@@ -2897,15 +2898,10 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-01-08 03:14:32 +0000",
       "minecraft:nether_wastes": "2025-01-08 03:11:11 +0000",
-      "minecraft:soul_sand_valley": "2025-01-08 03:11:42 +0000"
+      "minecraft:soul_sand_valley": "2025-01-08 03:11:42 +0000",
+      "minecraft:warped_forest": "2025-01-08 03:15:59 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_boots": "2025-01-08 03:13:58 +0000"
-    },
-    "done": true
   },
   "minecraft:nether/root": {
     "criteria": {
@@ -2919,15 +2915,93 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-08 03:12:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-01-08 03:13:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_boots": "2025-01-08 03:13:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
+  "minecraft:recipes/building_blocks/warped_planks": {
     "criteria": {
-      "has_netherrack": "2025-01-08 03:12:33 +0000"
+      "has_logs": "2025-01-08 03:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-01-08 03:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-08 03:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-01-08 03:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-08 03:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-01-08 03:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-01-08 03:22:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-01-08 03:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-08 03:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-08 03:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-01-08 03:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 03:21:44 +0000"
     },
     "done": true
   },
