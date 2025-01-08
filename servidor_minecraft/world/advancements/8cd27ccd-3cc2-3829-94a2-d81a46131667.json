@@ -2641,7 +2641,61 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/suspicious_stew_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-01-07 03:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-01-07 03:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_red_tulip": {
+    "criteria": {
+      "has_red_tulip": "2025-01-07 03:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-01-07 03:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-01-07 03:19:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-01-07 03:19:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_allium": {
+    "criteria": {
+      "has_allium": "2025-01-07 03:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-01-07 03:19:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-01-07 03:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_white_tulip": {
     "criteria": {
       "has_white_tulip": "2025-01-07 03:19:51 +0000"
     },
@@ -2650,12 +2704,6 @@
   "packedup:recipes/misc/gold_from_chest": {
     "criteria": {
       "recipe_condition": "2025-01-07 04:09:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2025-01-07 03:19:26 +0000"
     },
     "done": true
   },
@@ -2671,7 +2719,67 @@
     },
     "done": true
   },
+  "packedup:recipes/misc/iron_from_chest": {
+    "criteria": {
+      "recipe_condition": "2025-01-07 04:09:16 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/basic_from_chest": {
+    "criteria": {
+      "recipe_condition": "2025-01-07 04:09:16 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/obsidian_from_chest": {
+    "criteria": {
+      "recipe_condition": "2025-01-07 04:09:16 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/diamond_from_chest": {
+    "criteria": {
+      "recipe_condition": "2025-01-07 04:09:16 +0000"
+    },
+    "done": true
+  },
   "packedup:recipes/misc/obsidian_from_basic": {
+    "criteria": {
+      "recipe_condition": "2025-01-07 04:37:20 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/iron_from_basic": {
+    "criteria": {
+      "recipe_condition": "2025-01-07 04:37:20 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/diamond_from_basic": {
+    "criteria": {
+      "recipe_condition": "2025-01-07 04:37:20 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/copper_from_basic": {
+    "criteria": {
+      "recipe_condition": "2025-01-07 04:37:20 +0000"
+    },
+    "done": true
+  },
+  "packedup:basic_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-07 04:37:20 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/gold_from_basic": {
+    "criteria": {
+      "recipe_condition": "2025-01-07 04:37:20 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/silver_from_basic": {
     "criteria": {
       "recipe_condition": "2025-01-07 04:37:20 +0000"
     },
@@ -2689,111 +2797,9 @@
     },
     "done": true
   },
-  "packedup:recipes/misc/iron_from_chest": {
-    "criteria": {
-      "recipe_condition": "2025-01-07 04:09:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_allium": {
-    "criteria": {
-      "has_allium": "2025-01-07 03:19:28 +0000"
-    },
-    "done": true
-  },
-  "packedup:recipes/misc/iron_from_basic": {
-    "criteria": {
-      "recipe_condition": "2025-01-07 04:37:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_red_tulip": {
-    "criteria": {
-      "has_red_tulip": "2025-01-07 03:19:17 +0000"
-    },
-    "done": true
-  },
-  "packedup:recipes/misc/diamond_from_basic": {
-    "criteria": {
-      "recipe_condition": "2025-01-07 04:37:20 +0000"
-    },
-    "done": true
-  },
-  "packedup:recipes/misc/copper_from_basic": {
-    "criteria": {
-      "recipe_condition": "2025-01-07 04:37:20 +0000"
-    },
-    "done": true
-  },
   "packedup:recipes/misc/diamond_from_copper": {
     "criteria": {
       "recipe_condition": "2025-01-07 04:40:40 +0000"
-    },
-    "done": true
-  },
-  "packedup:recipes/misc/basic_from_chest": {
-    "criteria": {
-      "recipe_condition": "2025-01-07 04:09:16 +0000"
-    },
-    "done": true
-  },
-  "packedup:recipes/misc/obsidian_from_chest": {
-    "criteria": {
-      "recipe_condition": "2025-01-07 04:09:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_orange_tulip": {
-    "criteria": {
-      "has_orange_tulip": "2025-01-07 03:19:13 +0000"
-    },
-    "done": true
-  },
-  "packedup:basic_backpack": {
-    "criteria": {
-      "has_backpack": "2025-01-07 04:37:20 +0000"
-    },
-    "done": true
-  },
-  "packedup:recipes/misc/diamond_from_chest": {
-    "criteria": {
-      "recipe_condition": "2025-01-07 04:09:16 +0000"
-    },
-    "done": true
-  },
-  "packedup:recipes/misc/gold_from_basic": {
-    "criteria": {
-      "recipe_condition": "2025-01-07 04:37:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_white_tulip": {
-    "criteria": {
-      "has_white_tulip": "2025-01-07 03:19:51 +0000"
-    },
-    "done": true
-  },
-  "packedup:recipes/misc/silver_from_basic": {
-    "criteria": {
-      "recipe_condition": "2025-01-07 04:37:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_tulip": {
-    "criteria": {
-      "has_red_flower": "2025-01-07 03:19:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
-    "criteria": {
-      "has_orange_tulip": "2025-01-07 03:19:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2025-01-07 03:19:26 +0000"
     },
     "done": true
   },
@@ -2806,12 +2812,6 @@
   "packedup:recipes/misc/gold_from_copper": {
     "criteria": {
       "recipe_condition": "2025-01-07 04:40:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2025-01-07 03:19:28 +0000"
     },
     "done": true
   },

@@ -1,270 +1,70 @@
-[07Jan2025 00:41:23.919] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[07Jan2025 00:41:23.929] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04
-[07Jan2025 00:41:23.932] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 21.0.5 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[07Jan2025 00:41:24.100] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[07Jan2025 00:41:24.268] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/MCs-mods/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[07Jan2025 00:41:24.681] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[07Jan2025 00:41:26.242] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[07Jan2025 00:41:26.257] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[07Jan2025 00:41:26.376] [main/WARN] [mixin/]: Reference map 'supermartijn642corelib.mixins.refmap.json' for supermartijn642corelib.mixins.json could not be read. If this is a development environment you can ignore this message
-[07Jan2025 00:41:27.156] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/MCs-mods/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/MCs-mods/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/MCs-mods/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/MCs-mods/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
-[07Jan2025 00:41:27.386] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/MCs-mods/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/MCs-mods/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/MCs-mods/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/MCs-mods/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
-[07Jan2025 00:41:36.745] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 53.0.25, for MC 1.21.3 with MCP 20241025.112443
-[07Jan2025 00:41:36.750] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v53.0.25 Initialized
-[07Jan2025 00:41:36.775] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[07Jan2025 00:41:37.937] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[07Jan2025 00:41:38.717] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 53.0.25 Target: 53.0.37
-[07Jan2025 00:41:39.739] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[07Jan2025 00:41:44.154] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1344 recipes
-[07Jan2025 00:41:44.192] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1479 advancements
-[07Jan2025 00:41:44.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.3
-[07Jan2025 00:41:44.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[07Jan2025 00:41:44.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[07Jan2025 00:41:44.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[07Jan2025 00:41:44.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[07Jan2025 00:41:44.961] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[07Jan2025 00:41:45.081] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[07Jan2025 00:41:45.082] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[07Jan2025 00:41:45.082] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[07Jan2025 00:41:45.083] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[07Jan2025 00:41:45.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[07Jan2025 00:41:45.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[07Jan2025 00:41:53.803] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 00:41:53.805] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 00:41:53.806] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 00:41:53.806] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 00:41:53.807] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 00:41:53.807] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 00:41:53.808] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 00:41:53.809] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 00:41:53.812] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 00:41:53.813] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 00:41:53.814] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 00:41:53.816] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 00:41:53.817] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 00:41:53.818] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 00:41:53.818] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 00:41:53.819] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 00:41:53.821] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 00:41:54.160] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/100.103.231.37:64177] Disconnecting MODDED connection attempt: Server is still starting! Please wait before reconnecting.
-[07Jan2025 00:41:54.186] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8507 ms
-[07Jan2025 00:41:54.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.069s)! For help, type "help"
-[07Jan2025 00:41:54.204] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[07Jan2025 00:42:03.029] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 0800lato[/100.103.231.37:64192] logged in with entity id 7 at (-1245.5, 135.5625, -4123.5)
-[07Jan2025 00:42:03.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0800lato joined the game
-[07Jan2025 00:42:05.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
-[07Jan2025 01:08:20.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
-[07Jan2025 01:12:19.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
-[07Jan2025 01:16:05.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
-[07Jan2025 01:17:32.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
-[07Jan2025 01:19:46.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
-[07Jan2025 01:25:13.512] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 0800lato lost connection: Disconnected
-[07Jan2025 01:25:13.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0800lato left the game
-[07Jan2025 01:26:13.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
-[07Jan2025 02:11:11.141] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 0800lato[/100.103.231.37:49550] logged in with entity id 7615 at (-1252.528618540659, 129.0, -4122.612313063164)
-[07Jan2025 02:11:11.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0800lato joined the game
-[07Jan2025 02:22:47.826] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tannna000[/100.73.42.64:59040] logged in with entity id 8976 at (-1246.9147034181449, 129.0, -4121.95940371077)
-[07Jan2025 02:22:47.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 joined the game
-[07Jan2025 02:27:33.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> aca?
-[07Jan2025 02:27:35.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> okis
-[07Jan2025 02:27:41.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> bueno bueno
-[07Jan2025 02:27:47.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> ni yo
-[07Jan2025 02:27:49.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> mahsjasa
-[07Jan2025 02:28:17.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> y la granja?
-[07Jan2025 02:28:19.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> para el pan
-[07Jan2025 02:28:45.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> adentro hay mas piedra por si necesitas
-[07Jan2025 02:29:23.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> pasa que rompiste la mini granja que teniamos
-[07Jan2025 02:29:27.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> en la casa
-[07Jan2025 02:29:48.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> para alimentar a los cerdos mas uqe nada
-[07Jan2025 02:29:55.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> viste la espada?
-[07Jan2025 02:30:05.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> se ve re de lejos jashjs
-[07Jan2025 02:31:27.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> agarraste lo que habia en el cofre de piedra?
-[07Jan2025 02:31:35.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> te digo porque ya esta hecha ahss
-[07Jan2025 02:32:30.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> obligatorio hacer huerto de zanahorias
-[07Jan2025 02:32:37.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> por el oro mas que nada
-[07Jan2025 02:32:44.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> tengo yo 10
-[07Jan2025 02:33:02.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> decime donde y las mando
-[07Jan2025 02:33:21.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> como para ya ir consiguiendo
-[07Jan2025 02:33:30.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> si
-[07Jan2025 02:34:03.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> ahsjsa que mala suere
-[07Jan2025 02:35:19.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> hay que ponerle una trampilla para que no nos caigamos dentro del bloque de agua
-[07Jan2025 02:35:40.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> adentro
-[07Jan2025 02:37:00.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
-[07Jan2025 02:38:17.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> lit todo lo que tengo
-[07Jan2025 02:39:24.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> que cosas encesitamos?
-[07Jan2025 02:39:45.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> oks
-[07Jan2025 02:40:14.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> creo recordar que cuando el agua es de un solo bloque la eficiencia creo que era menor
-[07Jan2025 02:40:17.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> o algo asi
-[07Jan2025 02:40:41.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> que paso?
-[07Jan2025 02:40:58.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> a losa
-[07Jan2025 02:42:49.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> me olvide que tengo que cambiar la entrada de casa
-[07Jan2025 02:42:52.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> que sea de madera
-[07Jan2025 02:53:08.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> estoy buscando escaleras
-[07Jan2025 02:53:20.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> diseños
-[07Jan2025 02:53:26.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> para hacer las escaleras y caminos
-[07Jan2025 02:53:44.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> si pero no la estaria encontranod
-[07Jan2025 02:56:13.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> Puede ser
-[07Jan2025 02:56:22.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> le cambio el color de la madera no?
-[07Jan2025 02:56:29.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> tipo deja la oscura y la de pino
-[07Jan2025 02:58:26.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> aunque se me ocurre una idea
-[07Jan2025 02:58:33.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> pero tendira que ponerla en practica
-[07Jan2025 02:58:36.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> para escalera
-[07Jan2025 02:59:05.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
-[07Jan2025 03:08:04.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> como lo ves ahi?
-[07Jan2025 03:08:11.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> Ahora cambio la madera igual
-[07Jan2025 03:08:27.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> podes hablar amor
-[07Jan2025 03:08:43.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> te gusta asi?
-[07Jan2025 03:10:27.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> lo hago de escaleras o losas?
-[07Jan2025 03:10:37.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> veni y fijate
-[07Jan2025 03:11:05.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1128.000000, 64.000000, -3869.000000]
-[07Jan2025 03:11:09.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> amor
-[07Jan2025 03:11:15.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> mira le chat
-[07Jan2025 03:11:39.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1195.000000, 127.000000, -4075.000000]
-[07Jan2025 03:11:47.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> losas
-[07Jan2025 03:11:53.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> escaleras
-[07Jan2025 03:12:04.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> una queda mas larva
-[07Jan2025 03:12:26.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> Si la hago con escaleras puedo ver de hacerle una entrada
-[07Jan2025 03:13:00.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> lo que si me gusto es la losa debajo de las escaleras
-[07Jan2025 03:13:04.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> para darle mas relleno
-[07Jan2025 03:13:40.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> amor estoy sin comida
-[07Jan2025 03:15:23.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> salud
-[07Jan2025 03:15:37.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> pero la pucha jashjs
-[07Jan2025 03:16:34.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> que paso?
-[07Jan2025 03:16:44.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> aaah
-[07Jan2025 03:18:13.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
-[07Jan2025 03:18:50.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1122.000000, 63.000000, -3697.000000]
-[07Jan2025 03:20:06.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1191.000000, 127.000000, -4107.000000]
-[07Jan2025 03:25:58.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> que paso?
-[07Jan2025 03:26:35.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
-[07Jan2025 03:29:07.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> ahora creo que se ve mejor al ide o no?
-[07Jan2025 03:29:20.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> al porton no le des bola
-[07Jan2025 03:29:23.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> luego lo dejo lindo
-[07Jan2025 03:29:27.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> pero es para tener una refe
-[07Jan2025 03:30:40.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1640.500000, -25.000000, -4381.500000]
-[07Jan2025 03:31:35.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1245.500000, 127.000000, -4133.500000]
-[07Jan2025 03:31:50.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
-[07Jan2025 03:32:00.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> si me di cuenta
-[07Jan2025 03:32:28.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> perdon amor no te entedi
-[07Jan2025 03:32:37.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> sip
-[07Jan2025 03:32:46.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> shajsajhsjahs
-[07Jan2025 03:32:58.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> amor te sobro piedra?
-[07Jan2025 03:33:06.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> yep
-[07Jan2025 03:36:43.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> holaaaa
-[07Jan2025 03:37:33.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> me di cuenta
-[07Jan2025 03:37:39.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> como hiciste el porton de ahi?
-[07Jan2025 03:37:55.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> el mismo patron?
-[07Jan2025 03:38:17.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> emmm
-[07Jan2025 03:38:20.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> bueno
-[07Jan2025 03:38:30.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> igual este es mas chico
-[07Jan2025 03:40:14.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> bomba atomica?
-[07Jan2025 03:42:28.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 hit the ground too hard
-[07Jan2025 03:42:41.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1184.500000, 129.000000, -4080.500000]
-[07Jan2025 03:43:46.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> esta re infumable ajssa
-[07Jan2025 03:45:38.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> veni amor
-[07Jan2025 03:45:41.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> intentalo vos
-[07Jan2025 03:45:47.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> se me quemo el cerebro
-[07Jan2025 03:46:21.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> te deje la piedra ahi
-[07Jan2025 03:46:27.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> cuales?
-[07Jan2025 03:46:39.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> aaah okko
-[07Jan2025 03:47:29.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> si tengo
-[07Jan2025 03:48:03.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> toma
-[07Jan2025 03:48:12.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> amor
-[07Jan2025 03:49:13.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> cuantas necesitabas?
-[07Jan2025 03:49:55.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> 47 te parecen bien?
-[07Jan2025 03:50:12.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> donde mas iban?
-[07Jan2025 03:50:41.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> me sobran 2
-[07Jan2025 03:51:02.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> ahi va
-[07Jan2025 03:53:36.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
-[07Jan2025 03:54:06.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> xd
-[07Jan2025 03:55:13.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> te parece ese?
-[07Jan2025 03:55:20.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> o lo hago de madera?
-[07Jan2025 03:55:40.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> necesito un pico
-[07Jan2025 03:56:29.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> ahsjashas
-[07Jan2025 03:57:37.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> see
-[07Jan2025 03:57:37.936] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3030ms or 60 ticks behind
-[07Jan2025 04:01:08.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> x?
-[07Jan2025 04:02:10.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> amorcito
-[07Jan2025 04:02:17.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> me dio un toque de sueñito
-[07Jan2025 04:02:20.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
-[07Jan2025 04:02:32.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> Como?
-[07Jan2025 04:02:39.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> no te entendi
-[07Jan2025 04:02:47.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> aaah bueno
-[07Jan2025 04:03:05.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> llama a al mama
-[07Jan2025 04:03:10.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> sabes como lo saca cagando
-[07Jan2025 04:03:59.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> si no hay en los cofres no
-[07Jan2025 04:04:14.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> dios mio
-[07Jan2025 04:04:20.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> que pregunton que esta
-[07Jan2025 04:04:29.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> tengo amor losas para hacerlos
-[07Jan2025 04:05:30.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> que mal que estamos con la comida
-[07Jan2025 04:06:22.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> ahi vengo
-[07Jan2025 04:06:25.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> dame 2
-[07Jan2025 04:06:53.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0800lato: Teleported 0800lato to -1245.500000, 127.000000, -4133.500000]
-[07Jan2025 04:09:46.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> volvi
-[07Jan2025 04:10:26.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> ty
-[07Jan2025 04:12:23.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> de la madera que te di
-[07Jan2025 04:12:45.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> traigo animales ya?
-[07Jan2025 04:13:03.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> la puerta creo que es mejor si es de 3
-[07Jan2025 04:13:14.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> tenes mas de las puertas?
-[07Jan2025 04:13:43.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> dormi porfi
-[07Jan2025 04:14:17.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> sipo
-[07Jan2025 04:15:51.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> okis
-[07Jan2025 04:18:52.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> amor tenes mas tuff?
-[07Jan2025 04:19:02.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> la de las murallas
-[07Jan2025 04:19:06.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> la piedra
-[07Jan2025 04:19:18.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> ese
-[07Jan2025 04:19:36.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> si?
-[07Jan2025 04:19:44.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> ma muralla
-[07Jan2025 04:21:31.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> 9
-[07Jan2025 04:21:38.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1640.500000, -25.000000, -4381.500000]
-[07Jan2025 04:21:55.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tannna000: Teleported Tannna000 to -1245.500000, 127.000000, -4133.500000]
-[07Jan2025 04:22:09.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> donde mas va el cmino de tierra?
-[07Jan2025 04:22:44.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> Ahi quedo
-[07Jan2025 04:22:50.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> que hizo ahora?
-[07Jan2025 04:23:30.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> no bueno
-[07Jan2025 04:23:35.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> nunca se dio cuenta?
-[07Jan2025 04:23:41.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> a que tiipo mogolico
-[07Jan2025 04:24:45.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> los caminos dijimos de hacerlo con madera, pero como preferis?
-[07Jan2025 04:25:04.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> te estoy preguntando amor ajshajsa
-[07Jan2025 04:25:16.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> lo hacemos todo con pala, menos los puentes?
-[07Jan2025 04:25:28.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> podemos usar losas para no estar usando escaleras
-[07Jan2025 04:25:41.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> y que quede como "tablon" para no estar saltando
-[07Jan2025 04:25:57.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> una cosa
-[07Jan2025 04:26:04.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> los caminos los hacemos medio deformes no?
-[07Jan2025 04:26:22.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> tipo que no sean tan rectos
-[07Jan2025 04:26:25.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> pero se me da mal eso asjjasa
-[07Jan2025 04:26:34.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> te lo encargo a vos?
-[07Jan2025 04:26:52.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> por el momenot solo uni la granja casa y el portal
-[07Jan2025 04:27:02.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> por ejemplo para la subida al portal pondrai asi mira
-[07Jan2025 04:27:35.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> mira yo hiria hacieno asi
-[07Jan2025 04:28:49.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> ves asi
-[07Jan2025 04:29:01.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> nueno esyo que qeude asi de referencia
-[07Jan2025 04:29:14.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> pero las subidas las hacemos ais
-[07Jan2025 04:29:17.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> con losas
-[07Jan2025 04:34:43.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> ya hoy nose uqe mas hacer
-[07Jan2025 04:34:50.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> mañana planeare mi dia
-[07Jan2025 04:34:58.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> para saber por donde continuar
-[07Jan2025 04:35:28.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> La perdiste no?
-[07Jan2025 04:35:39.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> fijate si tenemso cuero en casa
-[07Jan2025 04:36:10.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> xd
-[07Jan2025 04:36:26.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> con 5 basra
-[07Jan2025 04:36:47.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> con 6 perdon
-[07Jan2025 04:37:20.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 has made the advancement [packedup.advancement.basic_backpack.title]
-[07Jan2025 04:37:27.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> mejorala
-[07Jan2025 04:38:57.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> conseguiste?
-[07Jan2025 04:39:33.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> si pero nose como mejorar desde la de cobre
-[07Jan2025 04:39:41.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> tipo no me aparece la receta
-[07Jan2025 04:40:02.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> creo que se puede saltar de la de cobre a la de oro
-[07Jan2025 04:40:22.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> Bueno
-[07Jan2025 04:40:40.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 has made the advancement [packedup.advancement.iron_or_copper_backpack.title]
-[07Jan2025 04:41:51.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> amorcito
-[07Jan2025 04:41:58.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> yo ya estoy asjasha
-[07Jan2025 04:42:04.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> okis
-[07Jan2025 04:42:24.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> mientras vos acostas a Owen, yo tengo que despertar a mi vieja para poder armar la cama
-[07Jan2025 04:42:41.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> poruqe la muy genia se acosto en el sillon
-[07Jan2025 04:42:49.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> y mira que se desperto 2 veces
-[07Jan2025 04:43:15.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> okis
-[07Jan2025 04:43:16.760] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 0800lato lost connection: Disconnected
-[07Jan2025 04:43:16.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0800lato left the game
-[07Jan2025 04:43:17.761] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tannna000 lost connection: Disconnected
-[07Jan2025 04:43:17.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 left the game
-[07Jan2025 04:44:17.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[08Jan2025 02:25:22.085] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[08Jan2025 02:25:22.094] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04
+[08Jan2025 02:25:22.097] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 21.0.5 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[08Jan2025 02:25:22.924] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[08Jan2025 02:25:23.266] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/MCs-mods/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[08Jan2025 02:25:24.170] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[08Jan2025 02:25:26.858] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[08Jan2025 02:25:26.872] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[08Jan2025 02:25:26.939] [main/WARN] [mixin/]: Reference map 'supermartijn642corelib.mixins.refmap.json' for supermartijn642corelib.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Jan2025 02:25:29.525] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/MCs-mods/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/MCs-mods/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/MCs-mods/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/MCs-mods/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[08Jan2025 02:25:31.408] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/MCs-mods/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/MCs-mods/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/MCs-mods/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/MCs-mods/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[08Jan2025 02:25:47.641] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 53.0.25, for MC 1.21.3 with MCP 20241025.112443
+[08Jan2025 02:25:47.642] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v53.0.25 Initialized
+[08Jan2025 02:25:47.851] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[08Jan2025 02:25:52.384] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[08Jan2025 02:25:53.579] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 53.0.25 Target: 53.0.37
+[08Jan2025 02:25:53.823] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[08Jan2025 02:26:00.629] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1344 recipes
+[08Jan2025 02:26:00.671] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1479 advancements
+[08Jan2025 02:26:01.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.3
+[08Jan2025 02:26:01.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[08Jan2025 02:26:01.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[08Jan2025 02:26:01.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[08Jan2025 02:26:01.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[08Jan2025 02:26:01.686] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[08Jan2025 02:26:01.956] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08Jan2025 02:26:01.957] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[08Jan2025 02:26:01.958] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08Jan2025 02:26:01.958] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[08Jan2025 02:26:02.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[08Jan2025 02:26:03.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[08Jan2025 02:26:12.723] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/100.103.231.37:56870] Disconnecting MODDED connection attempt: Server is still starting! Please wait before reconnecting.
+[08Jan2025 02:26:13.797] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 02:26:13.799] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 02:26:13.800] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 02:26:13.801] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 02:26:13.802] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 02:26:13.803] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 02:26:13.805] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 02:26:13.806] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 02:26:13.807] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 02:26:13.808] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 02:26:13.810] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 02:26:13.810] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 02:26:13.812] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 02:26:13.812] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 02:26:13.813] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 02:26:13.816] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 02:26:13.817] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 02:26:13.817] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 02:26:13.818] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 02:26:13.818] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 02:26:13.821] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 02:26:13.821] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 02:26:14.257] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 02:26:14.447] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11190 ms
+[08Jan2025 02:26:14.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.457s)! For help, type "help"
+[08Jan2025 02:26:14.491] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[08Jan2025 02:27:14.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[08Jan2025 02:29:34.163] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 0800lato[/100.103.231.37:56992] logged in with entity id 7 at (-1257.674455748527, 129.0, -4127.65584915242)
+[08Jan2025 02:29:34.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0800lato joined the game
+[08Jan2025 02:29:37.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[08Jan2025 02:30:00.100] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tannna000[/100.73.42.64:58131] logged in with entity id 337 at (-1259.849741729501, 129.0, -4127.603670437346)
+[08Jan2025 02:30:00.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tannna000 joined the game
+[08Jan2025 02:30:08.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> si mi amor
+[08Jan2025 02:30:10.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> ya lo sse
+[08Jan2025 02:30:21.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> esta bien que soy pendejo per no tanto
+[08Jan2025 02:30:52.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> jajajaj
+[08Jan2025 02:31:58.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> toma
+[08Jan2025 02:34:39.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0800lato> de esa madera nada
